@@ -1,0 +1,13 @@
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.exe
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.deps.json
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.runtimeconfig.json
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.runtimeconfig.dev.json
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.dll
+C:\projects\section2fizz\Section2Fizz\bin\Debug\netcoreapp3.1\Section2Fizz.pdb
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.csprojAssemblyReference.cache
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.AssemblyInfoInputs.cache
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.AssemblyInfo.cs
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.csproj.CoreCompileInputs.cache
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.dll
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.pdb
+C:\projects\section2fizz\Section2Fizz\obj\Debug\netcoreapp3.1\Section2Fizz.genruntimeconfig.cache
